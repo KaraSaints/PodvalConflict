@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{D35EDACE18B3F3CD}Worlds/Arland_HQC_PodvalConflict/Arland_HQC_PodvalConflict.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
+  }
+ }
+}
